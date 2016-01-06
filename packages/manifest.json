@@ -1,0 +1,12 @@
+{
+	"packages": [
+		{
+			"title": "Sample Package",
+			"slug": "sample",
+			"summary": "A sample project for Type.",
+			"version": "1.0.1",
+			"author": "Jake Bown",
+			"path": "sample-project/app.js"
+		}
+	]
+}
